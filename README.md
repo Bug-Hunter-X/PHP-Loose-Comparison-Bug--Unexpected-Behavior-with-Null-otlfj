@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP related to loose comparison with null values. The script 'bug.php' uses a loose comparison which leads to unexpected results and 'bugSolution.php' shows the correct implementation using strict comparison.  Understanding this difference is crucial for writing robust PHP code.
